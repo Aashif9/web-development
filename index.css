@@ -9,7 +9,7 @@ body {
     background-color: white;
 }
 
-/* Navigation bar */
+
 .nav-bar {
     width: 650px;
     max-width: calc(100% - 30px);
@@ -29,7 +29,7 @@ body {
     margin: 0 25px;
 }
 
-/* Student card */
+
 .card {
     width: 330px;
     max-width: calc(100% - 30px);
@@ -41,14 +41,14 @@ body {
     box-shadow: 0 15px 35px rgba(0, 0, 0, 0.3);
 }
 
-/* Student image */
+
 #studentPhoto {
     display: block;
     width: 100%;
     height: auto;
 }
 
-/* Input fields */
+
 #inputFields input,
 #inputFields select {
     display: block;
@@ -58,19 +58,19 @@ body {
     padding: 3px;
 }
 
-/* Gender dropdown */
+
 #gender {
     margin: 5px auto;
 }
 
-/* Student details */
+
 .card p {
     font-size: 18px;
     margin: 15px 0;
     overflow-wrap: anywhere;
 }
 
-/* Update button */
+
 .Download {
     margin: 35px auto;
     text-align: center;
