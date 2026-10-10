@@ -10,6 +10,7 @@ function updateCard(){
     document.getElementById("RollNumber").innerText=roll;
     alert("Updated successfully")
     document.getElementById("inputFields").style.display = "none";
+    document.getElementById("inputFields").style.display = "none";
 }
 document.getElementById("gender").addEventListener("change", function () {
     let gender = this.value;
